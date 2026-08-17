@@ -1,0 +1,35 @@
+[
+  {
+    "id": "M001",
+    "nombreCliente": "Carlos Perez",
+    "tipo": "Premium",
+    "fechaInicio": "2026-08-01",
+    "fechaFin": "2026-09-01",
+    "estado": "activa"
+  },
+  {
+    "id": "M002",
+    "nombreCliente": "Ana Gomez",
+    "tipo": "Basica",
+    "fechaInicio": "2026-08-15",
+    "fechaFin": "2026-09-15",
+    "estado": "pendiente"
+  },
+  {
+    "id": "M003",
+    "nombreCliente": "Luis Martinez",
+    "tipo": "VIP",
+    "fechaInicio": "2026-07-01",
+    "fechaFin": "2026-08-01",
+    "estado": "vencida"
+  },
+  {
+    "id": "M004",
+    "nombreCliente": "Maria Rodriguez",
+    "tipo": "Premium",
+    "fechaInicio": "2026-08-10",
+    "fechaFin": "2026-09-10",
+    "estado": "suspendida",
+    "motivo": "Pago pendiente"
+  }
+]
